@@ -18,6 +18,7 @@ December 28, 2020 7:09 PM ET
 
 ![Image](https://img9.doubanio.com/view/subject/l/public/s33660509.jpg)
 
+<img src="https://camo.githubusercontent.com/a6324f22abf4dedb9628c978058c1ba7c270407473b3446b3296892f13ec37d2/68747470733a2f2f696d67392e646f7562616e696f2e636f6d2f766965772f7375626a6563742f6c2f7075626c69632f7333333636303530392e6a7067" alt="Image" data-canonical-src="https://img9.doubanio.com/view/subject/l/public/s33660509.jpg" style="max-width:100%;">
 
 [数据库系统内幕](https://book.douban.com/subject/35078474/)
 
