@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/jiluhu/jiluhu.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# NEWS
+
+[众议院以极不寻常的投票否决了特朗普的国防法案否决权](https://www.npr.org/2020/12/28/950802271/house-rejects-trumps-defense-bill-veto-in-highly-unusual-vote)
+
+December 28, 2020 7:09 PM ET
+
+![Image](https://media.npr.org/assets/img/2020/12/28/gettyimages-1230050893_wide-9386491c77b4e2bf763fa3f4e47930dc8f6d1a18-s800-c85.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,8 +19,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+
 ### Header 3
 
 - Bulleted
