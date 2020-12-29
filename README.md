@@ -15,12 +15,13 @@ December 28, 2020 7:09 PM ET
 # BOOK
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
 
-![失落的卫星](https://img9.doubanio.com/view/subject/l/public/s33660509.jpg)
+![Image](https://img9.doubanio.com/view/subject/l/public/s33660509.jpg)
 
 
 [数据库系统内幕](https://book.douban.com/subject/35078474/)
 
-![数据库系统内幕](https://img9.doubanio.com/view/subject/l/public/s33651435.jpg)
+![Image](https://img9.doubanio.com/view/subject/l/public/s33651435.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
