@@ -12,6 +12,15 @@ December 28, 2020 7:09 PM ET
 
 ![Image](https://media.npr.org/assets/img/2020/12/28/gettyimages-1230050893_wide-9386491c77b4e2bf763fa3f4e47930dc8f6d1a18-s800-c85.jpg)
 
+# BOOK
+[失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
+
+![失落的卫星](https://img9.doubanio.com/view/subject/l/public/s33660509.jpg)
+
+
+[数据库系统内幕](https://book.douban.com/subject/35078474/)
+
+![数据库系统内幕](https://img9.doubanio.com/view/subject/l/public/s33651435.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
