@@ -12,6 +12,16 @@ December 28, 2020 7:09 PM ET
 
 ![Image](https://media.npr.org/assets/img/2020/12/28/gettyimages-1230050893_wide-9386491c77b4e2bf763fa3f4e47930dc8f6d1a18-s800-c85.jpg)
 
+
+[麦康奈尔将特朗普要求的潜在“毒丸”与刺激计划结合起来](https://edition.cnn.com/2020/12/29/politics/mcconnell-poison-pill-attached-to-bill/index.html)
+
+[McConnell moves to combine Trump asks in potential 'poison pill' for stimulus checks](https://edition.cnn.com/2020/12/29/politics/mcconnell-poison-pill-attached-to-bill/index.html)
+
+By Phil Mattingly, CNN
+
+Updated 0218 GMT (1018 HKT) December 30, 2020
+
+
 # BOOK
 
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
