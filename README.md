@@ -22,6 +22,13 @@ By Phil Mattingly, CNN
 Updated 0218 GMT (1018 HKT) December 30, 2020
 
 
+[Dems delay defense bill over stimulus check fight with McConnell](https://www.politico.com/news/2020/12/30/ndaa-bill-delayed-452809)
+
+By CONNOR O’BRIEN and ANDREW DESIDERIO
+
+12/30/2020 07:55 PM EST
+
+
 # BOOK
 
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
