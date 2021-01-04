@@ -29,6 +29,11 @@ By CONNOR O’BRIEN and ANDREW DESIDERIO
 12/30/2020 07:55 PM EST
 
 
+[Google Chrome sucks — here’s why you should stop using it](https://thenextweb.com/syndication/2021/01/02/google-chrome-sucks-heres-why-you-should-stop-using-it/)
+
+by BRAD LAPLANTE
+
+
 # BOOK
 
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
@@ -39,6 +44,11 @@ By CONNOR O’BRIEN and ANDREW DESIDERIO
 [数据库系统内幕](https://book.douban.com/subject/35078474/)
 
 <img src="https://camo.githubusercontent.com/75960765020922771a84bdf5458ac9adb4780fd8b5af05b56f731493aeffd2ec/68747470733a2f2f696d67392e646f7562616e696f2e636f6d2f766965772f7375626a6563742f6c2f7075626c69632f7333333635313433352e6a7067" alt="Image" data-canonical-src="https://img9.doubanio.com/view/subject/l/public/s33651435.jpg" style="max-width: 135px;max-height: 200px;">
+
+
+[欧洲文明如何塑造现代世界](https://book.douban.com/subject/35100838/)
+
+![Image](https://img9.doubanio.com/view/subject/l/public/s33701843.jpg)
 
 ### Markdown
 
