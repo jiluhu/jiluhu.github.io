@@ -33,6 +33,14 @@ By CONNOR O’BRIEN and ANDREW DESIDERIO
 
 by BRAD LAPLANTE
 
+[All 10 living former defense secretaries: Involving the military in election disputes would cross into dangerous territory](https://www.washingtonpost.com/opinions/10-former-defense-secretaries-military-peaceful-transfer-of-power/2021/01/03/2a23d52e-4c4d-11eb-a9f4-0e668b9772ba_story.html)
+
+Opinion by Ashton Carter, Dick Cheney, William Cohen, Mark Esper, Robert Gates, Chuck Hagel, James Mattis, Leon Panetta, William Perry and Donald Rumsfeld
+
+Jan. 4, 2021 at 6:00 a.m. GMT+8
+
+![Image](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKM74IQEYYI6XN7NCQO5RBLA5I.jpg&w=691)
+
 
 # BOOK
 
