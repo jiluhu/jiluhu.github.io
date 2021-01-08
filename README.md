@@ -47,6 +47,17 @@ Nissan was allegedly running a Bitbucket Git server with the default credentials
 
 By Catalin Cimpanu for Zero Day | January 6, 2021 -- 15:40 GMT (07:40 PST) | Topic: Security
 
+[Trump Is Said to Have Discussed Pardoning Himself](https://www.nytimes.com/2021/01/07/us/politics/trump-self-pardon.html)
+
+The discussions occurred in recent weeks, and it was not clear whether he has brought it up since he incited supporters to march on the Capitol, where some stormed the site.
+
+Jan. 7, 2021
+Updated 5:39 p.m. ET 
+
+By Michael S. Schmidt and Maggie Haberman
+
+![Image](https://static01.nyt.com/images/2021/01/07/us/politics/07dc-pardon1/merlin_181984962_84134102-322a-4515-977c-e5e84d56bc6c-superJumbo.jpg?quality=90&auto=webp)
+
 # BOOK
 
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
