@@ -42,6 +42,11 @@ Jan. 4, 2021 at 6:00 a.m. GMT+8
 ![Image](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SKM74IQEYYI6XN7NCQO5RBLA5I.jpg&w=691)
 
 
+[Nissan source code leaked online after Git repo misconfiguration
+Nissan was allegedly running a Bitbucket Git server with the default credentials of admin/admin.](https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/)
+
+By Catalin Cimpanu for Zero Day | January 6, 2021 -- 15:40 GMT (07:40 PST) | Topic: Security
+
 # BOOK
 
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
