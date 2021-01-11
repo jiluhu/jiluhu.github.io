@@ -58,6 +58,14 @@ By Michael S. Schmidt and Maggie Haberman
 
 ![Image](https://static01.nyt.com/images/2021/01/07/us/politics/07dc-pardon1/merlin_181984962_84134102-322a-4515-977c-e5e84d56bc6c-superJumbo.jpg?quality=90&auto=webp)
 
+
+[Democrats promise quick move to impeachment if 25th Amendment push fails](https://www.cnn.com/2021/01/10/politics/james-clyburn-impeachment-senate-trial-biden-cnntv/index.html)
+
+By Devan Cole, Jeff Zeleny, Daniella Diaz and Manu Raju, CNN
+
+Updated 9:24 PM ET, Sun January 10, 2021
+
+
 # BOOK
 
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
