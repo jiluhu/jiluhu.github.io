@@ -65,6 +65,14 @@ By Devan Cole, Jeff Zeleny, Daniella Diaz and Manu Raju, CNN
 
 Updated 9:24 PM ET, Sun January 10, 2021
 
+[Super Productivity: A Super Cool Open Source To-Do List App with GitHub Integration](https://itsfoss.com/super-productivity/)
+
+Last updated January 11, 2021 By Ankush Das
+
+[Dr. Martens Footwear Brand Is Planning London IPO](https://www.npr.org/2021/01/11/955633119/dr-martens-footwear-brand-is-planning-london-ipo)
+
+January 11, 20215:05 PM ET
+
 
 # BOOK
 
