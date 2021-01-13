@@ -74,6 +74,11 @@ Last updated January 11, 2021 By Ankush Das
 January 11, 20215:05 PM ET
 
 
+[Linus Torvalds slams....himself over latest Linux build](https://www.techradar.com/news/linus-torvalds-slamshimself-over-latest-linux-build)
+
+By Mayank Sharma 2 days ago
+
+
 # BOOK
 
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
