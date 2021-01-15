@@ -79,6 +79,11 @@ January 11, 20215:05 PM ET
 By Mayank Sharma 2 days ago
 
 
+[Stock futures down slightly as Biden unveils $1.9 trillion stimulus plan](https://www.cnbc.com/2021/01/14/stock-market-futures-open-to-close-news.html)
+
+PUBLISHED THU, JAN 14 20216:04 PM ESTUPDATED THU, JAN 14 20218:17 PM EST
+
+
 # BOOK
 
 [失落的卫星: 深入中亚大陆的旅程](https://book.douban.com/subject/35025453/)
