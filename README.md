@@ -83,6 +83,9 @@ By Mayank Sharma 2 days ago
 
 PUBLISHED THU, JAN 14 20216:04 PM ESTUPDATED THU, JAN 14 20218:17 PM EST
 
+[GitHub admits ‘significant mistakes were made’ in firing of Jewish employee](https://www.theverge.com/2021/1/17/22235913/github-significant-mistakes-were-made-firing-jewish-employee-nazis)
+
+By Zoe Schiffer@ZoeSchiffer  Jan 17, 2021, 1:10pm EST
 
 # BOOK
 
